@@ -1,4 +1,4 @@
-# flutter_2
+# flutter_timer_nim
 
 A new Flutter project.
 
